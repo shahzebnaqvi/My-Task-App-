@@ -15,5 +15,6 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-
-https://github.com/shahzebnaqvi/My-Task-App-/blob/master/show/display.mp4
+caption1 | caption2
+:-: | :-:
+<video src='video1.mov' width=180/> | <video src='https://github.com/shahzebnaqvi/My-Task-App-/blob/master/show/display.mp4' width=180/>
